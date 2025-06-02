@@ -1,16 +1,17 @@
-## Hi there 👋
+I'm Yofre Ormaza
 
-<!--
-**yofreOrmaza/yofreOrmaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My Projects
 
-Here are some ideas to get you started:
+| Leengu | Broud | DeltaNvim |
+| --- | --- | --- |
+| <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkHnG8Ihzab-E0IZ2V8eokoUZfnuNgra-g6t1JgwceMaRwV31LYEoCEX9JNyITzHlW84rZtb_o80EOhAi2B9Y8Jm7IpZosJM-1YccBBFwEZPOoecKFyC2uOqDd5c59VYN9LxzqtmG-PazARrnmmt4i-S1R7a2TgW56jWMIokuBNzdjhyhOG2HxcjW79VtQ/s500/Leengu1.png" style="width:500px;" /> | <img src="https://raw.githubusercontent.com/yofreOrmaza/Broud/refs/heads/main/data/img/favicon/favicon/web-app-manifest-512x512.png" style="width:auto;" /> | <img src="https://raw.githubusercontent.com/yofreOrmaza/DeltaNvim/main/.github/socialpreview.png" style="width:auto;"> |
+| An active way to learn a language | [PWA] Design the path to your purpose through short and concrete steps (Create and share Roadmaps) Broud is available on your devices 📱💻 🖥️| Δ DeltaNvim is a minimalist configuration for Neovim |
+| <a href="https://leengu.blogspot.com/" target="_blank">https://leengu.com</a> | <a href="https://broud.netlify.app/" target="_blank">https://broud.netlify.app</a> | <a href="https://github.com/yofreOrmaza/DeltaNvim" target="_blank">https://github.com/yofreOrmaza/DeltaNvim</a> |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Me
+<a href="https://dev.to/yofreormaza" target="_blank">Dev.to</a>
+
+# Stats
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=yofreOrmaza&limit=5&theme=aura_dark&combine_all_yearly_contributions=true)
