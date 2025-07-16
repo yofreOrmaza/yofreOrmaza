@@ -1,5 +1,9 @@
 I'm Yofre Ormaza
 
+# look at this! My [[dotfiles]](https://github.com/yofreOrmaza/.dot)
+
+![](https://github.com/yofreOrmaza/.dot/blob/main/Screenshots/AWFFPREVIEWKITTY.png)
+
 # My Projects
 
 | Leengu | Broud | DeltaNvim |
