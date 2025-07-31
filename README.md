@@ -1,4 +1,4 @@
-I'm Yofre Ormaza
+I'm Yofre Ormaza, and You can check out my blog <b>Dotbazh</b> <a href="https://dotbazh.vercel.app/" target="_blank">here</a>!
 
 # look at this! My [[dotfiles]](https://github.com/yofreOrmaza/.dot)
 
@@ -13,7 +13,8 @@ I'm Yofre Ormaza
 | [https://leengu.com](https://leengu.blogspot.com/) | https://broud.netlify.app | <a href="https://github.com/yofreOrmaza/DeltaNvim" target="_blank">https://github.com/yofreOrmaza/DeltaNvim</a> |
 
 # Me
-<a href="https://dev.to/yofreormaza" target="_blank">Dev.to</a>
+<a href="https://dev.to/yofreormaza" target="_blank">Dev.to</a><br>
+My Blog <a href="https://dotbazh.vercel.app/" target="_blank">Dotbazh</a><br>
 
 # Stats
 
