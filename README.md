@@ -12,7 +12,6 @@
 
 # Me
 <a href="https://dev.to/yofreormaza" target="_blank">Dev.to</a><br>
-My Blog <a href="https://dotbazh.vercel.app/" target="_blank">Dotbazh</a><br>
 
 # Stats
 
