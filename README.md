@@ -1,5 +1,3 @@
-I'm Yofre Ormaza, and You can check out my blog <b>Dotbazh</b> <a href="https://dotbazh.vercel.app/" target="_blank">here</a>!
-
 # look at this! My [[dotfiles]](https://github.com/yofreOrmaza/.dot)
 
 ![](https://github.com/yofreOrmaza/.dot/blob/main/Screenshots/screenshotUpdatePolybar2.png)
