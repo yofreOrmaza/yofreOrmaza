@@ -1,4 +1,4 @@
-# look at this! My [[dotfiles]](https://github.com/yofreOrmaza/.dot)
+# look at this! My [[dotfiles]](https://github.com/yofreOrmaza/leiscripts)
 
 ![](https://github.com/yofreOrmaza/.dot/blob/main/Screenshots/screenshotUpdatePolybar2.png)
 
